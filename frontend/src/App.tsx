@@ -1,9 +1,12 @@
 import './App.css'
+import Chat from './components/Chat'
 
 function App() {
 
   return (
-    <div>Hello World</div>
+    <div className='flex h-screen items-center'>
+      <Chat />
+    </div>
   )
 }
 

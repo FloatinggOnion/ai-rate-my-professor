@@ -1,0 +1,191 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "review": "Engaging lectures and clear explanations.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Emily Zhang",
+        "review": "A bit fast-paced but thorough.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Robert Martin",
+        "review": "Always available for questions and extra help.",
+        "subject": "Mathematics",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Samuel Lee",
+        "review": "A brilliant professor, but the course is challenging.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Helen Parker",
+        "review": "Inspiring and makes difficult topics easy to understand.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. James Carter",
+        "review": "Very knowledgeable but could improve in clarity.",
+        "subject": "Philosophy",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Laura Wilson",
+        "review": "Excellent in connecting theory with real-world applications.",
+        "subject": "Electrical Engineering",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. David Brown",
+        "review": "The course is well-organized, and the professor is approachable.",
+        "subject": "Chemistry",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Michael Garcia",
+        "review": "The lectures are interesting, but the grading is tough.",
+        "subject": "English Literature",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. Susan Thompson",
+        "review": "The professor makes history come alive!",
+        "subject": "History",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Daniel Patel",
+        "review": "Sometimes difficult to follow, but very insightful.",
+        "subject": "Economics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Jane Roberts",
+        "review": "Very supportive and always encourages questions.",
+        "subject": "Psychology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Richard Kim",
+        "review": "Course content is dense, but the professor is very clear.",
+        "subject": "Mathematics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Olivia Walker",
+        "review": "Engaging and passionate about the subject.",
+        "subject": "Political Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. John Anderson",
+        "review": "Focuses a lot on the theoretical aspects.",
+        "subject": "Physics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Karen Lewis",
+        "review": "Provides excellent real-world examples.",
+        "subject": "Mechanical Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Edward White",
+        "review": "A little disorganized, but very knowledgeable.",
+        "subject": "Sociology",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Amy Green",
+        "review": "Great at explaining complex concepts.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Steven Adams",
+        "review": "The assignments are challenging but rewarding.",
+        "subject": "Law",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Maria Young",
+        "review": "Makes the subject interesting and accessible.",
+        "subject": "Environmental Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Nicholas Clark",
+        "review": "Detailed and thorough lectures.",
+        "subject": "Electrical Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Sarah Hall",
+        "review": "Very clear and organized, but the exams are tough.",
+        "subject": "Chemistry",
+        "stars": 3
+      },
+      {
+        "professor": "Dr. George Baker",
+        "review": "Approachable and encourages participation.",
+        "subject": "Psychology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Charles Evans",
+        "review": "Very inspiring, especially in the labs.",
+        "subject": "Biology",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Lisa King",
+        "review": "Engaging, but sometimes hard to keep up.",
+        "subject": "Economics",
+        "stars": 3
+      },
+      {
+        "professor": "Prof. Brian Scott",
+        "review": "Makes learning fun and interactive.",
+        "subject": "Mathematics",
+        "stars": 5
+      },
+      {
+        "professor": "Dr. Jennifer Taylor",
+        "review": "Excellent at breaking down difficult topics.",
+        "subject": "Physics",
+        "stars": 4
+      },
+      {
+        "professor": "Prof. Joshua Mitchell",
+        "review": "Requires a lot of self-study, but rewarding.",
+        "subject": "Mechanical Engineering",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Angela Perez",
+        "review": "Very passionate and knowledgeable.",
+        "subject": "English Literature",
+        "stars": 5
+      },
+      {
+        "professor": "Prof. Raymond Hughes",
+        "review": "Insightful and makes you think critically.",
+        "subject": "Philosophy",
+        "stars": 4
+      },
+      {
+        "professor": "Dr. Sophia Brooks",
+        "review": "Great at engaging students with real-world applications.",
+        "subject": "Political Science",
+        "stars": 5
+      }
+    ]
+  }
+  

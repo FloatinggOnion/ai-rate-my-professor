@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 fastapi = {extras = ["standard"], version = "*"}
 python-dotenv = "*"
+google-generativeai = "*"
+langchain-community = "*"
+langchain-chroma = "*"
+sentence-transformers = "*"
+jq = "*"
+langchain-huggingface = "*"
 
 [dev-packages]
 
